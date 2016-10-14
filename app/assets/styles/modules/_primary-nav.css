@@ -38,6 +38,10 @@
     @mixin atMedium {
       border-top: none;
       border-bottom: none;
+
+      &.is-current-link {
+        color:#fabb69;
+      }
     }
   }
 }

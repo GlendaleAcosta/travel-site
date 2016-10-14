@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.1.1",
+    "jquery-smooth-scroll": "^2.0.0",
     "normalize.css": "^5.0.0",
     "query": "^0.2.0",
     "waypoints": "^4.0.1"
