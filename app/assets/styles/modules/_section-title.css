@@ -19,6 +19,7 @@
     margin-right:auto;
     margin-bottom: .6rem;
 
+
     @mixin atSmall {
       position: relative;
       top: 9px;
@@ -31,5 +32,10 @@
 
   &--blue {
     color: $mainBlue;
+  }
+
+  &--less-margin {
+    margin-bottom: 1.3rem;
+    margin-top: 0;
   }
 }
